@@ -10,7 +10,7 @@ h1{
 #name{
     color: rgba(255, 166, 0, 0.932);
 }
-section{
+.flexible-continer{
     display: flex;
 }
 
